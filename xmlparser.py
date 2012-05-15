@@ -1,3 +1,4 @@
+#added to Git repository XMLParser on 5/15/2012
 #Based on a script found at http://www.travisglines.com/web-coding/python-xml-parser-tutorial
 
 #all these imports are standard on most modern python implementations
